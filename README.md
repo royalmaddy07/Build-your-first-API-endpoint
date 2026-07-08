@@ -1,7 +1,5 @@
 # First API Endpoint
 
-This project is my first backend assignment for the FlyRank.ai Backend AI Engineering Internship.
-
 ## Objective
 
 Build a minimal backend server with two JSON endpoints that can be accessed from a browser or using `curl`.
